@@ -1,0 +1,33 @@
+{
+  "errCode": 0,
+  "errMsg": "",
+  "errDlt": "",
+  "data": {
+    "results": [
+      {
+        "userID": "11111111",
+        "accountStatus": "registered"
+      },
+      {
+        "userID": "11111112",
+        "accountStatus": "registered"
+      }
+    ]
+  }
+}
+
+{
+  "errCode": 0,
+  "errMsg": "",
+  "errDlt": "",
+  "data": {
+    "total": 0,
+    "userIDs": [
+      "openIM123456",
+      "openIM654321",
+      "openIMAdmin",
+      "kernaltestuid2",
+      "alantestuid2"
+    ]
+  }
+}
